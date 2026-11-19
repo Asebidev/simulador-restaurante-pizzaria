@@ -6,10 +6,13 @@ export class Cliente {
     public ficouIrritado: boolean = false;
     public desistiu: boolean = false;
 
-    constructor(
-        public readonly id: number,
-        public readonly instanteChegada: number
-    ) {}
+    public readonly id: number;
+    public readonly instanteChegada: number;
+
+    constructor(id: number, instanteChegada: number) {
+        this.id = id;
+        this.instanteChegada = instanteChegada;
+    }
 
     public getEstado(): EstadoCliente {
         return this.estado;
