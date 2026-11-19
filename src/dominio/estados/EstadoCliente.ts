@@ -1,10 +1,10 @@
 export enum EstadoCliente {
-    Decidindo,
-    TentandoChamarOGarcon,
-    Pedindo,
-    AguardandoComida,
-    Comendo,
-    TentandoPedirAConta,
-    Pagando,
-    Finalizado
+    decidindo,
+    tentandoChamarGarcom,
+    pedindo,
+    aguardandoComida,
+    comendo,
+    tentandoPedirConta,
+    pagando,
+    finalizado
 }
