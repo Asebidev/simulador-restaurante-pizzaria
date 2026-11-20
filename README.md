@@ -22,4 +22,3 @@ Os parâmetros da simulação (mesas, garçons, cozinha e cardápio) podem ser a
 * [Victor Ravel - @vit0rr05](https://github.com/vit0rr05)
 * [Kauan Araújo - @Asebidev](https://github.com/Asebidev)
 * [Igor Rodrigues - @IgorSousa-A2](https://github.com/IgorSousa-A2)
-* [Arthur Vinicius - @ArthurV1nicius](https://github.com/ArthurV1nicius)
